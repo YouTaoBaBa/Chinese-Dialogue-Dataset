@@ -27,9 +27,19 @@ KdConv是一个中文多领域知识驱动会话数据集，将多回合会话�
 
 下载链接:[https://github.com/thu-coai/KdConv](https://github.com/thu-coai/KdConv)
 
-## Douban Conversation Corpus (豆瓣2017)
+## LCCC (清华 2020) ⭐️⭐️⭐️
+开放领对话数据集,可以通过huggingface的datasets库加载
 
-未完待续...
+论文地址:[A Large-Scale Chinese Short-Text Conversation Dataset](https://arxiv.org/abs/2008.03946)
+
+下载链接:[https://github.com/thu-coai/CDial-GPT](https://github.com/thu-coai/CDial-GPT)
+
+## Douban Conversation Corpus (豆瓣2017) ⭐️⭐️
+豆瓣多轮对话
+
+引用论文:[Sequential Matching Network: A New Archtechture for Multi-turn Response Selection in Retrieval-based Chatbots.](https://arxiv.org/abs/1612.01627)
+
+下载链接:[https://github.com/MarkWuNLP/MultiTurnResponseSelection](https://github.com/MarkWuNLP/MultiTurnResponseSelection)
 
 ## License
 本项目旨在统计目前的开源对话数据及下载地址,如侵权立删.
