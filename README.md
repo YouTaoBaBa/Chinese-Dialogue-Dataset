@@ -11,6 +11,14 @@
 
 下载脚本:[https://github.com/naturalconv/NaturalConvDataSet](https://github.com/naturalconv/NaturalConvDataSet)
 
+## CrossWOZ (清华2020) ⭐️⭐️⭐️⭐️⭐
+
+大规模的跨域Wizard-of-Oz面向任务的数据集。它包含6K对话会话和102K话语，涵盖5个领域，包括酒店、餐厅、景点、地铁和出租车。此外，该语料库还包含了丰富的对话状态注释，以及用户和系统两方面的对话行为。
+
+引用论文:[https://arxiv.org/pdf/2002.11893.pdf](https://arxiv.org/pdf/2002.11893.pdf)
+
+下载链接:[https://github.com/thu-coai/CrossWOZ](https://github.com/thu-coai/CrossWOZ)
+
 ## KdConv (清华 2020) ⭐️⭐️⭐️⭐️
 
 KdConv是一个中文多领域知识驱动会话数据集，将多回合会话中的话题建立在知识图的基础上。KdConv包含了来自三个领域(电影、音乐和旅行)的4.5K对话和86K话语，平均回合数为19.0。这些对话包含了对相关主题的深入讨论和多个主题之间的自然过渡，同时语料库也可以用于迁移学习和领域适应的探索。
