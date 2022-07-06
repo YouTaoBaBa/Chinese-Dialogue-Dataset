@@ -41,5 +41,20 @@ KdConv是一个中文多领域知识驱动会话数据集，将多回合会话�
 
 下载链接:[https://github.com/MarkWuNLP/MultiTurnResponseSelection](https://github.com/MarkWuNLP/MultiTurnResponseSelection)
 
+# 特定领域对话
+## 医疗对话
+### 阿里天池医疗对话
+中文医疗对话数据集由792099个问答对组成
+
+下载链接:[https://tianchi.aliyun.com/dataset/dataDetail?dataId=90163](https://tianchi.aliyun.com/dataset/dataDetail?dataId=90163)
+
+## 客服对话
+### 淘宝客服
+论文引用:[Modeling Multi-turn Conversation with Deep Utterance Aggregation](https://arxiv.org/abs/1806.09102)
+
+下载链接:[https://github.com/cooelf/DeepUtteranceAggregation](https://github.com/cooelf/DeepUtteranceAggregation)
+
+### 京东对话挑战赛
+下载链接:[https://github.com/SimonJYang/JDDC-Baseline-Seq2Seq](https://github.com/SimonJYang/JDDC-Baseline-Seq2Seq)
 ## License
 本项目旨在统计目前的开源对话数据及下载地址,如侵权立删.
