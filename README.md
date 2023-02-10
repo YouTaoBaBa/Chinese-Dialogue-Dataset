@@ -1,6 +1,12 @@
 # 开源对话数据集汇总(中文)
 用于汇总目前的开源中文对话数据集
 
+## pCLUE ⭐️⭐️⭐️⭐️⭐️
+
+基于提示的大规模预训练数据集，用于多任务学习和零样本学习，可调整为聊天数据
+
+下载链接:[https://github.com/CLUEbenchmark/pCLUE](https://github.com/CLUEbenchmark/pCLUE)
+
 ## NaturalConv (腾讯2021) ⭐️⭐️⭐️⭐️⭐️
 
 语料库包含了来自6个领域的19.9K对话和400K话语，平均回合数为20.1。
